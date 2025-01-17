@@ -14,4 +14,6 @@ A project for completing given task.
 
 ![ui](react-component.png)
 
-[fb](www.fb.com)
+### Github repository link : [Github Repository](https://github.com/sojibkhan567/react-task-25)
+
+### Application deploy link : [React-task](https://react-task-25-blond.vercel.app/)
